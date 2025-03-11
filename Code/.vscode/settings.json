@@ -1,0 +1,6 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/cli_child",
+        "${workspaceFolder}/cli_leader"
+    ]
+}
