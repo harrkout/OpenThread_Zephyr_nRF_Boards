@@ -1,0 +1,13 @@
+# Target labels
+ coprocessor
+# Source files and their labels
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/CMakeFiles/coprocessor
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/CMakeFiles/coprocessor.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/CMakeFiles/coprocessor-complete.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-build.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-configure.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-download.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-install.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-mkdir.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-patch.rule
+/home/harrkout/zephyrproject/harrkout/coprocessor/build/_sysbuild/sysbuild/images/coprocessor-prefix/src/coprocessor-stamp/coprocessor-update.rule

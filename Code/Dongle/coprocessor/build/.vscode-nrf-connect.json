@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "/home/harrkout/zephyr_workspace/ncs/toolchains/toolchains/b77d8c1312",
+  "sdkPath": "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0",
+  "board": "nrf52840dongle/nrf52840",
+  "boardDirs": [
+    "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf52840dongle"
+  ],
+  "boardRevision": "",
+  "boardDir": "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf52840dongle",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

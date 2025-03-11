@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "/home/harrkout/zephyr_workspace/ncs/toolchains/toolchains/b77d8c1312",
+  "sdkPath": "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0",
+  "board": "nrf7002dk/nrf5340/cpuapp",
+  "boardDirs": [
+    "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf7002dk"
+  ],
+  "boardRevision": "",
+  "boardDir": "/home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf7002dk",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "nRF7002dk_leader",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

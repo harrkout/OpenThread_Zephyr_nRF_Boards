@@ -1,0 +1,52 @@
+cmake:
+  application:
+    configuration-dir: /home/harrkout/zephyrproject/harrkout/coprocessor
+    source-dir: /home/harrkout/zephyrproject/harrkout/coprocessor
+  board:
+    name: nrf52840dongle
+    qualifiers: nrf52840
+    revision: 
+  devicetree:
+    bindings-dirs:
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/nrf/dts/bindings
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/bindings
+    files:
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf52840dongle/nrf52840dongle_nrf52840.dts
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/boards/nrf52840dongle_nrf52840.overlay
+    include-dirs:
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/nrf/include
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/nrf/dts
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/include
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/include/zephyr
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/common
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/x86
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/xtensa
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/sparc
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/riscv
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/posix
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/nios2
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/arm64
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/arm
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts/arc
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/dts
+    user-files:
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/boards/nrf52840dongle_nrf52840.overlay
+  kconfig:
+    files:
+     - /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr/boards/nordic/nrf52840dongle/nrf52840dongle_nrf52840_defconfig
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/prj.conf
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/boards/nrf52840dongle_nrf52840.conf
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/build/coprocessor/zephyr/.config.sysbuild
+    user-files:
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/prj.conf
+     - /home/harrkout/zephyrproject/harrkout/coprocessor/boards/nrf52840dongle_nrf52840.conf
+  toolchain:
+    name: zephyr
+    path: /home/harrkout/zephyr_workspace/ncs/toolchains/toolchains/b77d8c1312/opt/zephyr-sdk
+  vendor-specific:
+    nordic:
+      svdfile: /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/modules/hal/nordic/nrfx/mdk/nrf52840.svd
+  zephyr:
+    version: 3.7.99
+    zephyr-base: /home/harrkout/zephyr_workspace/ncs/toolchains/v2.9.0/zephyr
+version: 0.1.0

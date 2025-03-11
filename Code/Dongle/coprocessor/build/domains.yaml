@@ -1,0 +1,7 @@
+default: coprocessor
+build_dir: /home/harrkout/zephyrproject/harrkout/coprocessor/build
+domains:
+  - name: coprocessor
+    build_dir: /home/harrkout/zephyrproject/harrkout/coprocessor/build/coprocessor
+flash_order:
+  - coprocessor
