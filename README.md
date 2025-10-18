@@ -1,4 +1,3 @@
-**
 #
 # Table of Contents
 
@@ -54,18 +53,6 @@
 #
 
 
-
-
-
-
-
-
-
-
-
-
-
-Intelligent Systems and Computer Architecture (ISCA) Lab	         2
 1. # <a name="_toc192549516"></a>Openthread
 
 OpenThread is an open-source implementation of the Thread networking protocol, designed for low-power, wireless mesh networks. This document outlines the high-level topology of a Thread network using an OpenThread Border Router (OTBR) setup on a Linux laptop with various development boards.
