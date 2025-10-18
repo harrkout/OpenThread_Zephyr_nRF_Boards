@@ -106,7 +106,7 @@ The network consists of the following components:
 - Function: Connects to the Thread mesh, may relay messages if acting as a Router.
 
 
-![](fig2.png)
+![](Documents/Images/fig2.png)
 *Documents/Images/figure *1*. High level architecture*
 
 1. # <a name="_toc192549522"></a>Tools
