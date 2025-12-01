@@ -249,6 +249,11 @@ The firmware on the nRF7002DK is identical to that of the nRF5340DK, but with th
 
 Like the Leader, the Child device supports the same computational tasks and UDP-based communication, but it only responds to commands from the Leader and does not manage the Thread network itself.
 
+## Demo
+![](Documents/Images/demo2.png)
+![](Documents/Images/demo1.png)
+
+
 1. ## <a name="_toc192549537"></a>Power Measurements
 
 In the following sections, energy consumptions measurements are displayed and analysed.
